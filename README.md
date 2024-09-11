@@ -4,6 +4,8 @@
 </div><br/>
 
 <div style="display: inline_block">
-  <img align="center" alt="logo-palmsoft" height="150" width="170" src="assets/logo-palmsoft.png">
+  <div align="center">
+   <a  href="https://www.palmsoft.com.br/"><img align="center" alt="logo-palmsoft" height="150" width="170" src="assets/logo-palmsoft.png">
    <img align="center" alt="logo-deepen" height="150" width="170" src="assets/logo-deepen.png">
+  </div>
 </div><br/><br/>
