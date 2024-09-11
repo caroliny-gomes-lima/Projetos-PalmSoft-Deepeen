@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "status": 200,
+  "data": [
+    {
+      "name": "João da Silva P. Dantas",
+      "registrationId": 1248,
+      "rolCosts": 4.5,
+      "rol": "Separação",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "José Pedro Neto",
+      "registrationId": 1489,
+      "rolCosts": 4.5,
+      "rol": "Checkout",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "Maria Silmara Vicenzi",
+      "registrationId": 5912,
+      "rolCosts": 4.5,
+      "rol": "Checkout",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "Antônia Dalla Liveya",
+      "registrationId": 6844,
+      "rolCosts": 4.5,
+      "rol": "Separação",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "José Carneiro Mattos",
+      "registrationId": 4950,
+      "rolCosts": 4.5,
+      "rol": "Separação",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "Maria Pedro",
+      "registrationId": 7583,
+      "rolCosts": 4.5,
+      "rol": "Carregamento",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "Tamyres de Alcântara",
+      "registrationId": 1045,
+      "rolCosts": 4.5,
+      "rol": "Movimentação",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "Caroely Silva",
+      "registrationId": 1059,
+      "rolCosts": 4.5,
+      "rol": "Separação",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "João da Silva P. Dantas",
+      "registrationId": 5065,
+      "rolCosts": 4.5,
+      "rol": "Checkout",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "José Pedro Neto",
+      "registrationId": 5928,
+      "rolCosts": 4.5,
+      "rol": "Separação",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "Maria Silmara Vicenzi",
+      "registrationId": 1059,
+      "rolCosts": 4.5,
+      "rol": "Carregamento",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "Antônia Dalla Liveya",
+      "registrationId": 5812,
+      "rolCosts": 4.5,
+      "rol": "Movimentação",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "José Carneiro Mattos",
+      "registrationId": 4069,
+      "rolCosts": 4.5,
+      "rol": "Carregamento",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    },
+    {
+      "name": "Maria Pedro",
+      "registrationId": 5812,
+      "rolCosts": 4.5,
+      "rol": "Movimentação",
+      "valueDeviation": 6504,
+      "valuePercentage": 6504
+    }
+  ]
+}

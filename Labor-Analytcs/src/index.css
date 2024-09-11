@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "neue bold";
+  src: url("./assets/fonts/NeueHaasDisplayBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "neue light";
+  src: url("./assets/fonts/NeueHaasDisplayLight.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "neue medium";
+  src: url("./assets/fonts/NeueHaasDisplayMediu.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "neue roman";
+  src: url("./assets/fonts/NeueHaasDisplayRoman.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "neue italic";
+  src: url("./assets/fonts/NeueHaasDisplayRomanItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+  scrollbar-width: thin;
+  scrollbar-color: #626366;
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+*::-webkit-scrollbar-track {
+  background: #62636640;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #62636660;
+  border-radius: 20px;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: "neue roman", "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

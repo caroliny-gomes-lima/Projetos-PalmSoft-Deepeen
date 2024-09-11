@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "status": 200,
+  "data": {
+    "productivity": {
+      "overallPercentage": 90,
+      "separation": 35000,
+      "checkout": 10000,
+      "load": 5000,
+      "movement": 20000,
+      "total": 70000
+    },
+    "capacity": {
+      "overallPercentage": 90,
+      "separation": 40000,
+      "checkout": 12000,
+      "load": 10000,
+      "movement": 23000,
+      "total": 85000
+    }
+  }
+}

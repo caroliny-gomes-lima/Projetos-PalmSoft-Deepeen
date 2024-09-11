@@ -1,0 +1,29 @@
+{
+    "ok": true,
+    "status": 200,
+    "data": [{
+        "value": 12000, 
+        "label": "Dimensão 1"
+    },{
+        "value": 12000, 
+        "label": "Dimensão 1"
+    },{
+        "value": 12000, 
+        "label": "Dimensão 2"
+    },{
+        "value": 12000, 
+        "label": "Dimensão 2"
+    },{
+        "value": 12000, 
+        "label": "Dimensão 3"
+    },{
+        "value": 12000, 
+        "label": "Dimensão 3"
+    },{
+        "value": 12000, 
+        "label": "Dimensão N"
+    },{
+        "value": 12000, 
+        "label": "Dimensão N"
+    }]
+}

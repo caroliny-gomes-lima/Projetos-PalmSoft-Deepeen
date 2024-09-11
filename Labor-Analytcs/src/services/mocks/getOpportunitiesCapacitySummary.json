@@ -1,0 +1,12 @@
+{
+    "ok": true,
+    "status": 200,
+    "data": {
+        "overallPercentage": 90,
+        "separation": 40000,
+        "checkout": 12000,
+        "load": 10000,
+        "movement": 23000,
+        "total": 85000
+    }
+}

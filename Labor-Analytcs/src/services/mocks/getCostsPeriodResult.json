@@ -1,0 +1,10 @@
+{
+    "ok": true,
+    "status": 200,
+    "data": {
+        "kgFtePerDay": 1120,
+        "envisagedKgFtePerDay": 1000,
+        "kgPrice": 0.45,
+        "envisagedKgPrice": 0.40
+    }
+}

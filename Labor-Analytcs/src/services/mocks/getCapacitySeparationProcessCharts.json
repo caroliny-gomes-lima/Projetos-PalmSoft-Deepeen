@@ -1,0 +1,10 @@
+{
+    "ok": true,
+    "status": 200,
+    "data":{
+        "global":[89, 11],
+        "firstTurn": [24, 6],
+        "secondTurn": [24, 6],
+        "thirdTurn": [24, 6]
+    }
+}

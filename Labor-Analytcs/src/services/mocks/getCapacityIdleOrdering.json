@@ -1,0 +1,88 @@
+{
+    "ok": true,
+    "status": 200,
+    "data": [{
+        "name": "João da Silva P. Dantas",
+        "registrationId": 1248,
+        "utilization": 92,
+        "process": "Separação"
+    },
+    {
+        "name": "José Pedro Neto",
+        "registrationId": 1489,
+        "utilization": 88,
+        "process": "Checkout"
+    },
+    {
+        "name": "Maria Silmara Vicenzi",
+        "registrationId": 5912,
+        "utilization": 84,
+        "process": "Checkout"
+    },
+    {
+        "name": "Antônia Dalla Liveya",
+        "registrationId": 6844,
+        "utilization": 80,
+        "process": "Separação"
+    },
+    {
+        "name": "José Carneiro Mattos",
+        "registrationId": 4950,
+        "utilization": 79,
+        "process": "Separação"
+    },
+    {
+        "name": "Maria Pedro",
+        "registrationId": 7583,
+        "utilization": 77,
+        "process": "Carregamento"
+    },
+    {
+        "name": "Tamyres de Alcântara",
+        "registrationId": 1045,
+        "utilization": 68,
+        "process": "Movimentação"
+    },
+    {
+        "name": "Caroely Silva",
+        "registrationId": 1059,
+        "utilization": 65,
+        "process": "Separação"
+    },
+    {
+        "name": "João da Silva P. Dantas",
+        "registrationId": 5065,
+        "utilization": 60,
+        "process": "Checkout"
+    },
+    {
+        "name": "José Pedro Neto",
+        "registrationId": 5928,
+        "utilization": 59,
+        "process": "Separação"
+    },
+    {
+        "name": "Maria Silmara Vicenzi",
+        "registrationId": 1059,
+        "utilization": 52,
+        "process": "Carregamento"
+    },
+    {
+        "name": "Antônia Dalla Liveya",
+        "registrationId": 5812,
+        "utilization": 49,
+        "process": "Movimentação"
+    },
+    {
+        "name": "José Carneiro Mattos",
+        "registrationId": 4069,
+        "utilization": 30,
+        "process": "Carregamento"
+    },
+    {
+        "name": "Maria Pedro",
+        "registrationId": 5812,
+        "utilization": 27,
+        "process": "Movimentação"
+    }]
+}

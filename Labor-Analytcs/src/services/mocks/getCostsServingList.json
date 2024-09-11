@@ -1,0 +1,158 @@
+{
+    "ok": true,
+    "status": 200,
+    "data": [{
+        "name": "João da Silva P. Dantas",
+        "registrationId": 1248,
+        "hours": "04:00",
+        "utilization": 92,
+        "cost": 12000,
+        "freight": 59,
+        "total": 12059,
+        "provided": 7800.9,
+        "result": "1/14"
+    },
+    {
+        "name": "José Pedro Neto",
+        "registrationId": 1489,
+        "hours": "02:00",
+        "utilization": 88,
+        "cost": 5000,
+        "freight": 59,
+        "total": 5059,
+        "provided": 7800.9,
+        "result": "2/14"
+    },
+    {
+        "name": "Maria Silmara Vicenzi",
+        "registrationId": 5912,
+        "hours": "04:00",
+        "utilization": 84,
+        "cost": 5000,
+        "freight": 59,
+        "total": 5059,
+        "provided": 3590.9,
+        "result": "3/14"
+    },
+    {
+        "name": "Antônia Dalla Liveya",
+        "registrationId": 6844,
+        "hours": "04:00",
+        "utilization": 80,
+        "cost": 5000,
+        "freight": 59,
+        "total": 5059,
+        "provided": 3590.9,
+        "result": "4/14"
+    },
+    {
+        "name": "José Carneiro Mattos",
+        "registrationId": 4950,
+        "hours": "01:00",
+        "utilization": 79,
+        "cost": 5000,
+        "freight": 59,
+        "total": 5059,
+        "provided": 3590.9,
+        "result": "5/14"
+    },
+    {
+        "name": "Maria Pedro",
+        "registrationId": 7583,
+        "hours": "04:00",
+        "utilization": 77,
+        "cost": 3000,
+        "freight": 59,
+        "total": 3059,
+        "provided": 1700,
+        "result": "6/14"
+    },
+    {
+        "name": "Tamyres de Alcântara",
+        "registrationId": 1045,
+        "hours": "02:00",
+        "utilization": 68,
+        "cost": 3000,
+        "freight": 59,
+        "total": 3059,
+        "provided": 1700,
+        "result": "7/14"
+    },
+    {
+        "name": "Caroely Silva",
+        "registrationId": 1059,
+        "hours": "02:00",
+        "utilization": 65,
+        "cost": 3000,
+        "freight": 59,
+        "total": 3059,
+        "provided": 1700,
+        "result": "8/14"
+    },
+    {
+        "name": "João da Silva P. Dantas",
+        "registrationId": 5065,
+        "hours": "04:00",
+        "utilization": 60,
+        "cost": 3000,
+        "freight": 59,
+        "total": 3059,
+        "provided": 1700,
+        "result": "9/14"
+    },
+    {
+        "name": "José Pedro Neto",
+        "registrationId": 5928,
+        "hours": "04:00",
+        "utilization": 59,
+        "cost": 7000,
+        "freight": 59,
+        "total": 7059,
+        "provided": 7800.9,
+        "result": "10/14"
+    },
+    {
+        "name": "Maria Silmara Vicenzi",
+        "registrationId": 1059,
+        "hours": "04:00",
+        "utilization": 52,
+        "cost": 7000,
+        "freight": 59,
+        "total": 7059,
+        "provided": 7800.9,
+        "result": "11/14"
+    },
+    {
+        "name": "Antônia Dalla Liveya",
+        "registrationId": 5812,
+        "hours": "02:00",
+        "utilization": 49,
+        "cost": 2000,
+        "freight": 59,
+        "total": 2059,
+        "provided": 1700,
+        "result": "12/14"
+    },
+    {
+        "name": "José Carneiro Mattos",
+        "registrationId": 4069,
+        "hours": "01:00",
+        "utilization": 30,
+        "cost": 2000,
+        "freight": 59,
+        "total": 2059,
+        "provided": 1700,
+        "result": "13/14"
+    },
+    {
+        "name": "Maria Pedro",
+        "registrationId": 5812,
+        "hours": "02:00",
+        "utilization": 27,
+        "cost": 2000,
+        "freight": 59,
+        "total": 2059,
+        "provided": 1700,
+        "result": "14/14"
+    }]
+}

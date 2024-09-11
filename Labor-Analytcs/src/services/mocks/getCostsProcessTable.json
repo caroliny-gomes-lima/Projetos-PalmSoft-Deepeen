@@ -1,0 +1,29 @@
+{
+    "ok": true,
+    "status": 200,
+    "data": [{
+        "value": 12000, 
+        "label": "Separação"
+    },{
+        "value": 12000, 
+        "label": "Separação"
+    },{
+        "value": 12000, 
+        "label": "Separação"
+    },{
+        "value": 12000, 
+        "label": "Conferência"
+    },{
+        "value": 12000, 
+        "label": "Conferência"
+    },{
+        "value": 12000, 
+        "label": "Carregamento"
+    },{
+        "value": 12000, 
+        "label": "Carregamento"
+    },{
+        "value": 12000, 
+        "label": "Carregamento"
+    }]
+}

@@ -1,0 +1,10 @@
+{
+    "ok": true,
+    "status": 200,
+    "data": {
+        "productivity":[89, 11], 
+        "peakValue": 92,
+        "occupation": 170,
+        "ftes": 190
+    }
+}

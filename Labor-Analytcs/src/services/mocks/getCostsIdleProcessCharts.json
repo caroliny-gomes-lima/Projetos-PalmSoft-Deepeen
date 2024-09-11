@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "status": 200,
+  "data": {
+    "chartData": [
+      { "value": 15, "idleValue": 120 },
+      { "value": 10, "idleValue": 120 },
+      { "value": 12, "idleValue": 120 },
+      { "value": 20, "idleValue": 120 }
+    ],
+    "averageValue": 15
+  }
+}

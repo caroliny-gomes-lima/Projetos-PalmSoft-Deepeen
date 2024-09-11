@@ -1,0 +1,8 @@
+{
+    "ok": true,
+    "status": 200,
+    "data": {
+        "values":[38, 40, 22], 
+        "labels": ["Separação", "Conferência", "Carregamento"]
+    }
+}
