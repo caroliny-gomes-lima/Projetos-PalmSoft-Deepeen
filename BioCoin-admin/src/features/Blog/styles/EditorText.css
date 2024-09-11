@@ -1,0 +1,13 @@
+div.ql-container.ql-snow {
+    width: 100%;
+     height: 160px;
+ 
+     border: unset;
+ }
+ 
+ div.ql-toolbar.ql-snow {
+     border-top: unset;
+     border-bottom: unset;
+     border-left: unset;
+     border-right: unset;
+ }
