@@ -4,6 +4,6 @@
 </div><br/>
 
 <div style="display: inline_block">
-  <img align="center" alt="carol-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="carol-nestjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="logo-palmsoft" height="150" width="170" src="assets/logo-palmsoft.png">
+   <img align="center" alt="logo-deepen" height="150" width="170" src="assets/logo-deepen.png">
 </div><br/><br/>
