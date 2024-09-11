@@ -1,0 +1,9 @@
+{
+    "ok": true,
+    "status": 200,
+    "data": {
+        "productivityVariation": [100, 22, 61, 43, 37, 72, 61, 66, 84, 124, 48, 35],
+        "productivityBenchmark": 70,
+        "averageProductivity": 62.75
+    }
+}

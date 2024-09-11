@@ -1,0 +1,57 @@
+image: node:10
+
+cache:
+  paths:
+    - node_modules/
+    - target/
+
+before_script:
+  - apt-get update -qq && apt-get install -y -qq sshpass rsync
+
+deploy-dev:
+  only:
+    - dev
+    
+  stage: deploy
+  script:
+    - yarn install
+    - CI=false yarn build:dev
+    - cd build/
+    - ls
+    - sshpass -V
+    - export SSHPASS=$USER_PASS_DEV_QA
+    - sshpass -e rsync -r --omit-dir-times -e "ssh -o StrictHostKeyChecking=no -p 22" . $USER_NAME_DEV_QA@$SERVER_IP_DEV_QA:/var/www/dev
+    - cd ../
+    - sshpass -e rsync -r --omit-dir-times -e "ssh -o StrictHostKeyChecking=no -p 22" .htaccess $USER_NAME_DEV_QA@$SERVER_IP_DEV_QA:/var/www/dev
+
+deploy-qa:
+  only:
+    - qa
+    
+  stage: deploy
+  script:
+    - yarn install
+    - CI=false yarn build:qa
+    - cd build/
+    - ls
+    - sshpass -V
+    - export SSHPASS=$USER_PASS_DEV_QA
+    - sshpass -e rsync -r --omit-dir-times -e "ssh -o StrictHostKeyChecking=no -p 22" . $USER_NAME_DEV_QA@$SERVER_IP_DEV_QA:/var/www/qa
+    - cd ../
+    - sshpass -e rsync -r --omit-dir-times -e "ssh -o StrictHostKeyChecking=no -p 22" .htaccess $USER_NAME_DEV_QA@$SERVER_IP_DEV_QA:/var/www/qa
+
+deploy-prd:
+  only:
+    - master
+    
+  stage: deploy
+  script:
+    - yarn install
+    - CI=false yarn build:prod
+    - cd build/
+    - ls
+    - sshpass -V
+    - export SSHPASS=$USER_PASS_PRD
+    - sshpass -e rsync -r --omit-dir-times -e "ssh -o StrictHostKeyChecking=no -p 22" . $USER_NAME_PRD@$SERVER_IP_PRD:/var/www/html
+    - cd ../
+    - sshpass -e rsync -r --omit-dir-times -e "ssh -o StrictHostKeyChecking=no -p 22" .htaccess $USER_NAME_PRD@$SERVER_IP_PRD:/var/www/html
