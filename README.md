@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Indrodução</h1>
- Atuei como desenvolvedora front-end júnior em projetos para as empresas PalmSoft e Deepen. Cada projeto possui um arquivo .md contendo suas respectivas informações.
+Trabalhei como desenvolvedora front-end júnior em projetos para as empresas PalmSoft e Deepen. Cada projeto possui um arquivo .md contendo suas respectivas informações.
 </div><br/>
 
 <div style="display: inline_block">
