@@ -1,76 +1,44 @@
-# Sistema de gerencimanto administrativo dos serviços da Bewiki 
-O sistema pussui as seguintes funções:
+<div align="center">
+<h1>Sistema administrativo de gerencimanto dos serviços Bewiki</h1>
+</div>
 
-- Home:
+<strong>Introdução</strong>
 
-Interface com os seguintes gráficos: Pico Diário de Usuários - Acessos ao App - Entradas Becare - Entradas Bework - Entradas Bemobi - Entradas Bework - Entradas Bework - Entradas Bepark.
+O Sistema Administrativo Bewiki é plataforma de gerenciamento para os serviços Bewiki Home, Bewiki Work,  e Bewiki Market. Nele, os usuários administradores podem realizar o cadastro, atualização e exclusão de reservas e serviços contratados por clientes.
 
-#
+- Bewiki Home: O usuário administrador pode gerenciar reservas de hospedagem ou moradia, incluindo a adição de serviços extras conforme o pacote contratado pelo cliente.
+- Bewiki Work: O usuário administrador pode cadastrar, atualizar e excluir reservas de espaços de coworking e salas de reuniões para clientes, sejam eles trabalhadores individuais ou equipes. Também é possível incluir serviços adicionais conforme o tipo de plano (Básico ou Sem Limites) escolhido.
+- Bewiki Market: O sistema permite o cadastro, atualização e exclusão de restaurantes, além de visualizar perfis e dados dos estabelecimentos.
 
-- CashBack:
+## Funcionalidades Principais Disponíveis Do Sistema
+<strong>CRUD</strong>
 
-Interface de cashback de usuários com opções de excluir e editar saldo do usuário.
+CASHBACK:
+* Read (Ler): Usuários admin podem ver a lista de clientes com cashback.
+* Update (Atualizar): Usuários admin podem atualizar saldos de cashback do cliente.
+* Delete (Excluir):  Usuários admin podem excluir  cashback do cliente.
 
-#
+BEWIKI HOME:
+* Create (Criar): Usuários admin podem cadastrar reservas. 
+* Update (Atualizar): Usuários admin podem atualizar as informações da reserva do cliente.
+* Delete (Excluir): Usuários admin podem cancelar reserva do cliente.
+* Read (Ler): Usuários admin podem ver listas das reservas e dados do cliente que fez a reserva. 
 
-  - Usuários:
+BEWIKI WORK:
+* Create (Criar): Usuários admin podem cadastrar reservas dos espaços de coworking e salas de reuniões para clientes. 
+* Update (Atualizar): Usuários admin podem atualizar as informações da reservas dos espaços de coworking e salas de reuniões para clientes.
+* Delete (Excluir): Usuários admin podem cancelar reservas dos espaços de coworking e salas de reuniões para clientes.
+* Read (Ler): Usuários admin podem ver listas das reservas dos espaços de coworking e salas de reuniões. Além de dados do cliente que fez a reserva.
 
-  Interface de cashback de usuários com opções de bloquear, deletar e pesquisar usuários por filtros de pesquisa através de dados gerais.
+BEWIKI MARKET:
+* Create (Criar): Usuários admin podem cadastrar restaurantes. 
+* Update (Atualizar): Usuários admin podem atualizar as informações dos restaurantes.
+* Delete (Excluir): Usuários admin podem exluir cadastro do restaurante.
+* Read (Ler): Usuários admin podem visualizar uma listas restaurantes cadastrados. Além de visualizar perfis e dados dos estabelecimentos. 
 
-#
+## Interface
+<a href="https://xd.adobe.com/view/1b6b9981-f0f6-49a1-b19f-61bfad1df347-4e38/screen/d061efae-7ea6-4297-9517-a9f09fd6b0f4?fullscreen" target="_blank">
+  <img src="https://img.shields.io/badge/-xd mockup Bewiki-%237d0041?style=for-the-badge&logo=xd&logoColor=white">
+</a>
 
-- Serviço Becare opções (serviços de Saúde):
 
-Interface Solicitaçõs de consultas
-
-Interface Histórico de consultas
-
-InterfaceCadastro Área de Atendimento
-
-Interface Cadastrar Especialista
-
-#
-
-- Serviço Bework opções (coworking):
-
-Interface Cadastro de Espaços
-
-Interface Edição de Espaços
-
-Interface Cadastro de Planos
-
-Interface Edição de Planos
-
-Interface Histórico
-
-Interface Novas Solicitações
-
-Interface Check-ins Pendentes
-
-Interface Previsão de Fluxo
-
-Interface Listagem de Espaços
-
-Interface Assinaturas
-
-#
-
-- Serviço Behome opções (hospedagem e moradia):
-
-Interface Cadastro de Studio
-
-Interface Edição de Studio
-
-Interface Histórico
-
-Interface Reservas Solicitadas
-
-Interface Check-ins Pendentes
-
-Interface Previsão de Fluxo
-
-Interface Listagem de Studios
-
-Interface Assinaturas
-
-Interface Importação de Reservas
