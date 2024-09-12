@@ -83,10 +83,11 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
    <img align="center" alt="icon-swagger" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
    <img align="center" alt="icon-xd" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
   </div>
+</div><br/>
+
+<div align="center">
+<h1>Cliente</h1>
 </div>
-
-  ## Cliente
-
   <div align="center">
 <a href="https://bewiki.com.br/)" target="_blank">
    <img align="center" alt="icon-bewiki" height="150" width="150" src="https://media.licdn.com/dms/image/v2/C4D0BAQFn5CQM5tG5rA/company-logo_100_100/company-logo_100_100/0/1630504968102/bewikii_logo?e=2147483647&v=beta&t=5IeO5j__HhK-8qGPMC6MRDWafH61MEmMG8dIhtJqJAU">
