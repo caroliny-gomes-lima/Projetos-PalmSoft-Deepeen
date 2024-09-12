@@ -49,29 +49,26 @@ O projeto foi reformulado do zero, e este repositório contém uma versão anter
   ## Arquitetura
 O projeto segue a estrutura modular, onde cada módulo, como components, pages, services, lib e features, possui responsabilidades distintas. 
 
-- components:
-Este módulo contém todos os componentes globais e reutilizáveis da aplicação, que podem ser usados em diversas partes da interface do projeto
+<strong>components:</strong>
+- Este módulo contém todos os componentes globais e reutilizáveis da aplicação, que podem ser usados em diversas partes da interface do projeto
 
-- features:
-Este módulo agrupa as funcionalidades específicas do projeto, incluindo os serviços e a lógica de negócio. Além disso, contém componentes que são específicos de cada funcionalidade, responsáveis por exibir a interface (UI).
+<strong>features:</strong>
+- Este módulo agrupa as funcionalidades específicas do projeto, incluindo os serviços e a lógica de negócio. Além disso, contém componentes que são específicos de cada funcionalidade, responsáveis por exibir a interface (UI).
 
-- services:
-Este módulo agrupa é responsavel pela integração com a API(back-end).
-Serviços de Dados: Lógica para acessar e manipular dados, como buscar, criar, atualizar e excluir informações.
-Serviços de Autenticação: Gerenciamento de autenticação de usuários, como login, logout, registro e verificação de tokens.
-Serviços de Utilidades: Funções que podem ser usadas para diferentes partes da aplicação, como manipulação de data, formatação de dados, validações etc.
+<strong>services:</strong>
+- Este módulo é responsavel pela integração com a API(back-end).
+- Serviços de Dados: Lógica para acessar e manipular dados, como buscar, criar, atualizar e excluir informações.
+- Serviços de Autenticação: Gerenciamento de autenticação de usuários, como login, logout, registro e verificação de tokens.
+- Serviços de Utilidades: Funções que podem ser usadas para diferentes partes da aplicação, como manipulação de data, formatação de dados, validações etc.
 
-- services:
-Este módulo agrupa é responsavel pela integração com a API(back-end).
-Serviços de Dados: Lógica para acessar e manipular dados, como buscar, criar, atualizar e excluir informações.
-Serviços de Autenticação: Gerenciamento de autenticação de usuários, como login, logout, registro e verificação de tokens.
-Serviços de Utilidades: Funções que podem ser usadas para diferentes partes da aplicação, como manipulação de data, formatação de dados, validações etc.
+<strong>lib:</strong>
 
-- lib:
-Este módulo agrupa é responsavel pela integração com a API(back-end).
-Serviços de Dados: Lógica para acessar e manipular dados, como buscar, criar, atualizar e excluir informações.
-Serviços de Autenticação: Gerenciamento de autenticação de usuários, como login, logout, registro e verificação de tokens.
-Serviços de Utilidades: Funções que podem ser usadas para diferentes partes da aplicação, como manipulação de data, formatação de dados, validações etc.
+- Este módulo contém funções e utilitários que não ão conectados diretamente em componentes e páginas, mas que são úteis em toda a aplicação.
+- Funções que realizam tarefas comuns e reutilizáveis, como formatação de strings, manipulação de arrays, cálculos matemáticos, entre outros.
+- Funções que facilitam o acesso e a manipulação de dados, como funções para filtragem, ou transformação de dados.
+- Funções como validações de dados e manipulação de formulários.
 
-
-
+  ## Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="icon-javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div><br/>
