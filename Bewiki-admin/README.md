@@ -37,8 +37,12 @@ BEWIKI MARKET:
 * Read (Ler): Usuários admin podem visualizar uma listas restaurantes cadastrados. Além de visualizar perfis e dados dos estabelecimentos. 
 
 ## Interface
+<strong>Observações:</strong>
+O projeto foi reformulado do zero, e este repositório contém uma versão anterior. Ele inclui apenas o mockup que serve como referência visual da interface da versão antiga.
+<br/>
+  <div align="center">
 <a href="https://xd.adobe.com/view/1b6b9981-f0f6-49a1-b19f-61bfad1df347-4e38/screen/d061efae-7ea6-4297-9517-a9f09fd6b0f4?fullscreen" target="_blank">
   <img src="https://img.shields.io/badge/-xd mockup Bewiki-%237d0041?style=for-the-badge&logo=xd&logoColor=white">
 </a>
-
+  </div>
 
