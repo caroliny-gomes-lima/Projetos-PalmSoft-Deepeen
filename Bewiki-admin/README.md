@@ -56,12 +56,22 @@ Este módulo contém todos os componentes globais e reutilizáveis da aplicaçã
 Este módulo agrupa as funcionalidades específicas do projeto, incluindo os serviços e a lógica de negócio. Além disso, contém componentes que são específicos de cada funcionalidade, responsáveis por exibir a interface (UI).
 
 - services:
-Este módulo agrupa as funcionalidades responsaveis pela interação com a API(back-end).
+Este módulo agrupa é responsavel pela integração com a API(back-end).
+Serviços de Dados: Lógica para acessar e manipular dados, como buscar, criar, atualizar e excluir informações.
+Serviços de Autenticação: Gerenciamento de autenticação de usuários, como login, logout, registro e verificação de tokens.
+Serviços de Utilidades: Funções que podem ser usadas para diferentes partes da aplicação, como manipulação de data, formatação de dados, validações etc.
 
-<br/>
-  <div align="center">
-<a href="https://xd.adobe.com/view/1b6b9981-f0f6-49a1-b19f-61bfad1df347-4e38/screen/d061efae-7ea6-4297-9517-a9f09fd6b0f4?fullscreen" target="_blank">
-  <img src="https://img.shields.io/badge/-xd mockup Bewiki-%237d0041?style=for-the-badge&logo=xd&logoColor=white">
-</a>
-  </div>
+- services:
+Este módulo agrupa é responsavel pela integração com a API(back-end).
+Serviços de Dados: Lógica para acessar e manipular dados, como buscar, criar, atualizar e excluir informações.
+Serviços de Autenticação: Gerenciamento de autenticação de usuários, como login, logout, registro e verificação de tokens.
+Serviços de Utilidades: Funções que podem ser usadas para diferentes partes da aplicação, como manipulação de data, formatação de dados, validações etc.
+
+- lib:
+Este módulo agrupa é responsavel pela integração com a API(back-end).
+Serviços de Dados: Lógica para acessar e manipular dados, como buscar, criar, atualizar e excluir informações.
+Serviços de Autenticação: Gerenciamento de autenticação de usuários, como login, logout, registro e verificação de tokens.
+Serviços de Utilidades: Funções que podem ser usadas para diferentes partes da aplicação, como manipulação de data, formatação de dados, validações etc.
+
+
 
