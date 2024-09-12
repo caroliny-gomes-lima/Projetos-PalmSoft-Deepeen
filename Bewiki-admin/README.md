@@ -46,3 +46,19 @@ O projeto foi reformulado do zero, e este repositório contém uma versão anter
 </a>
   </div>
 
+  ## Arquitetura
+O projeto segue a estrutura modular, onde cada módulo, como components, pages, services, lib e features, possui responsabilidades distintas. 
+
+- components:
+Este módulo contém todos os componentes globais e reutilizáveis da aplicação, que podem ser usados em diversas partes da interface do projeto
+
+- features:
+Este módulo agrupa as funcionalidades específicas do projeto, incluindo os serviços e a lógica de negócio. Além disso, contém componentes que são específicos de cada funcionalidade, responsáveis por exibir a interface (UI).
+
+<br/>
+  <div align="center">
+<a href="https://xd.adobe.com/view/1b6b9981-f0f6-49a1-b19f-61bfad1df347-4e38/screen/d061efae-7ea6-4297-9517-a9f09fd6b0f4?fullscreen" target="_blank">
+  <img src="https://img.shields.io/badge/-xd mockup Bewiki-%237d0041?style=for-the-badge&logo=xd&logoColor=white">
+</a>
+  </div>
+
