@@ -55,6 +55,9 @@ Este módulo contém todos os componentes globais e reutilizáveis da aplicaçã
 - features:
 Este módulo agrupa as funcionalidades específicas do projeto, incluindo os serviços e a lógica de negócio. Além disso, contém componentes que são específicos de cada funcionalidade, responsáveis por exibir a interface (UI).
 
+- services:
+Este módulo agrupa as funcionalidades responsaveis pela interação com a API(back-end).
+
 <br/>
   <div align="center">
 <a href="https://xd.adobe.com/view/1b6b9981-f0f6-49a1-b19f-61bfad1df347-4e38/screen/d061efae-7ea6-4297-9517-a9f09fd6b0f4?fullscreen" target="_blank">
