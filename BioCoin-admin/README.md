@@ -58,7 +58,6 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
    <img align="center" alt="icon-react" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="icon-styled-components" height="50" width="50" src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/ec333/sc.png">
   <img align="center" alt="icon-materialui" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
-  <img align="center" alt="icon-redux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg">
   <img align="center" alt="icon-chartjs" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/1024px-Chart.js_logo.svg.png">
  <img align="center" alt="icon-node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="icon-yarn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" >
@@ -67,3 +66,12 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
    <img align="center" alt="icon-xd" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
   </div>
 </div><br/>
+
+<div align="center">
+<h1>Cliente</h1>
+</div>
+  <div align="center">
+<a href="https://bewiki.com.br/)" target="_blank">
+   <img align="center" alt="icon-bewiki" height="150" width="150" src="https://media.licdn.com/dms/image/v2/C4D0BAQFn5CQM5tG5rA/company-logo_100_100/company-logo_100_100/0/1630504968102/bewikii_logo?e=2147483647&v=beta&t=5IeO5j__HhK-8qGPMC6MRDWafH61MEmMG8dIhtJqJAU">
+</a>
+  </div>
