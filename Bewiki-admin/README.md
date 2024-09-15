@@ -61,6 +61,9 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
 - Serviços de Autenticação: Gerenciamento de autenticação de usuários, como login, logout, registro e verificação de tokens.
 - Serviços de Utilidades: Funções que podem ser usadas para diferentes partes da aplicação, como manipulação de data, formatação de dados, validações etc.
 
+<strong>pages:</strong>
+- As páginas de cada funcionalidade da aplicação, onde são definidas as telas correspondentes a cada função oferecida pela aplicação.
+
 <strong>lib:</strong>
 
 - Este módulo contém funções e utilitários que não ão conectados diretamente em componentes e páginas, mas que são úteis em toda a aplicação.
@@ -89,7 +92,7 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
 <h1>Cliente</h1>
 </div>
   <div align="center">
-<a href="https://bewiki.com.br/)" target="_blank">
+<a href="https://bewiki.com.br/" target="_blank">
    <img align="center" alt="icon-bewiki" height="150" width="150" src="https://media.licdn.com/dms/image/v2/C4D0BAQFn5CQM5tG5rA/company-logo_100_100/company-logo_100_100/0/1630504968102/bewikii_logo?e=2147483647&v=beta&t=5IeO5j__HhK-8qGPMC6MRDWafH61MEmMG8dIhtJqJAU">
 </a>
   </div>
