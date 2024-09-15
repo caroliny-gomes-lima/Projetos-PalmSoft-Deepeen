@@ -71,7 +71,7 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
 <h1>Cliente</h1>
 </div>
   <div align="center">
-<a href="https://bewiki.com.br/)" target="_blank">
-   <img align="center" alt="icon-bewiki" height="150" width="150" src="file:///F:/DevSoftwares/CursoDevSistemas/PROJETOS-PARA-PRATICAR/BioCoin/WebProjeto/src/assets/svg/BioLogo.svg">
+<a href="https://biocoin.labsc.dev.br/" target="_blank">
+   <img align="center" alt="icon-biocoin" height="50" width="250" src="src/assets/svg/WhiteBioLogo.svg">
 </a>
   </div>
