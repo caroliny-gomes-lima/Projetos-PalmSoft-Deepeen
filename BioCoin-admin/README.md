@@ -63,7 +63,7 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
   <img align="center" alt="icon-yarn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" >
   <img align="center" alt="icon-vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" >
    <img align="center" alt="icon-swagger" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
-   <img align="center" alt="icon-xd" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
+   <img align="center" alt="carol-figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   </div>
 </div><br/>
 
