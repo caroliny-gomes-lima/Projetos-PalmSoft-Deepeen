@@ -72,6 +72,6 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
 </div>
   <div align="center">
 <a href="https://bewiki.com.br/)" target="_blank">
-   <img align="center" alt="icon-bewiki" height="150" width="150" src="https://media.licdn.com/dms/image/v2/C4D0BAQFn5CQM5tG5rA/company-logo_100_100/company-logo_100_100/0/1630504968102/bewikii_logo?e=2147483647&v=beta&t=5IeO5j__HhK-8qGPMC6MRDWafH61MEmMG8dIhtJqJAU">
+   <img align="center" alt="icon-bewiki" height="150" width="150" src="file:///F:/DevSoftwares/CursoDevSistemas/PROJETOS-PARA-PRATICAR/BioCoin/WebProjeto/src/assets/svg/BioLogo.svg">
 </a>
   </div>
