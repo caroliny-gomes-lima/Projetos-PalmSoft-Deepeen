@@ -47,7 +47,7 @@ O projeto foi reformulado do zero, e este repositório contém uma versão anter
   </div>
 
   ## Arquitetura
-O projeto segue a estrutura modular, onde cada módulo, como components, pages, services, lib e features, possui responsabilidades distintas. 
+O projeto segue a arquitetura baseada em componentes, dividindo a interface do usuário em componentes reutilizáveis e isolados. Cada componente é responsável por sua própria lógica e UI, permitindo uma estrutura modular.
 
 <strong>components:</strong>
 - Este módulo contém todos os componentes globais e reutilizáveis da aplicação, que podem ser usados em diversas partes da interface do projeto
