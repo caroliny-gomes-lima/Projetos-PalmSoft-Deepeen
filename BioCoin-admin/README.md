@@ -34,7 +34,7 @@ Este projeto consiste em um sistema administrativo para o gerenciamento de venda
 
 ## Arquitetura
 
-O projeto segue a estrutura modular, onde cada módulo, como components, pages, services e features, possui responsabilidades distintas. 
+O projeto segue a arquitetura baseada em componentes, dividindo a interface do usuário em componentes reutilizáveis e isolados. Cada componente é responsável por sua própria lógica e UI, permitindo uma estrutura modular.
 
 <strong>components:</strong>
 - Este módulo contém todos os componentes globais e reutilizáveis da aplicação, que podem ser usados em diversas partes da interface do projeto
