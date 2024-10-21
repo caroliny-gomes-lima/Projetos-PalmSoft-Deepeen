@@ -34,7 +34,7 @@ Este projeto consiste em um sistema administrativo para o gerenciamento de venda
 
 ## Arquitetura
 
-O projeto segue a estrutura modular, onde cada módulo, como components, pages, services e features, possui responsabilidades distintas. 
+O projeto segue a arquitetura baseada em componentes, dividindo a interface do usuário em componentes reutilizáveis e isolados. Cada componente é responsável por sua própria lógica e UI, permitindo uma estrutura modular.
 
 <strong>components:</strong>
 - Este módulo contém todos os componentes globais e reutilizáveis da aplicação, que podem ser usados em diversas partes da interface do projeto
@@ -63,7 +63,7 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
   <img align="center" alt="icon-yarn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" >
   <img align="center" alt="icon-vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" >
    <img align="center" alt="icon-swagger" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
-   <img align="center" alt="icon-xd" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
+   <img align="center" alt="carol-figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   </div>
 </div><br/>
 
@@ -71,7 +71,7 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
 <h1>Cliente</h1>
 </div>
   <div align="center">
-<a href="https://bewiki.com.br/)" target="_blank">
-   <img align="center" alt="icon-bewiki" height="150" width="150" src="file:///F:/DevSoftwares/CursoDevSistemas/PROJETOS-PARA-PRATICAR/BioCoin/WebProjeto/src/assets/svg/BioLogo.svg">
+<a href="https://biocoin.labsc.dev.br/" target="_blank">
+   <img align="center" alt="icon-biocoin" height="50" width="250" src="src/assets/svg/WhiteBioLogo.svg">
 </a>
   </div>

@@ -47,7 +47,7 @@ O projeto foi reformulado do zero, e este repositório contém uma versão anter
   </div>
 
   ## Arquitetura
-O projeto segue a estrutura modular, onde cada módulo, como components, pages, services, lib e features, possui responsabilidades distintas. 
+O projeto segue a arquitetura baseada em componentes, dividindo a interface do usuário em componentes reutilizáveis e isolados. Cada componente é responsável por sua própria lógica e UI, permitindo uma estrutura modular.
 
 <strong>components:</strong>
 - Este módulo contém todos os componentes globais e reutilizáveis da aplicação, que podem ser usados em diversas partes da interface do projeto
@@ -60,6 +60,9 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
 - Serviços de Dados: Lógica para acessar e manipular dados, como buscar, criar, atualizar e excluir informações.
 - Serviços de Autenticação: Gerenciamento de autenticação de usuários, como login, logout, registro e verificação de tokens.
 - Serviços de Utilidades: Funções que podem ser usadas para diferentes partes da aplicação, como manipulação de data, formatação de dados, validações etc.
+
+<strong>pages:</strong>
+- As páginas de cada funcionalidade da aplicação, onde são definidas as telas correspondentes a cada função oferecida pela aplicação.
 
 <strong>lib:</strong>
 
@@ -89,7 +92,7 @@ O projeto segue a estrutura modular, onde cada módulo, como components, pages, 
 <h1>Cliente</h1>
 </div>
   <div align="center">
-<a href="https://bewiki.com.br/)" target="_blank">
+<a href="https://bewiki.com.br/" target="_blank">
    <img align="center" alt="icon-bewiki" height="150" width="150" src="https://media.licdn.com/dms/image/v2/C4D0BAQFn5CQM5tG5rA/company-logo_100_100/company-logo_100_100/0/1630504968102/bewikii_logo?e=2147483647&v=beta&t=5IeO5j__HhK-8qGPMC6MRDWafH61MEmMG8dIhtJqJAU">
 </a>
   </div>
