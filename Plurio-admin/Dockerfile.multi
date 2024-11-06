@@ -1,0 +1,15 @@
+FROM node:16 AS builder
+
+WORKDIR /app
+
+COPY package*.json ./
+
+RUN yarn install
+
+COPY . .
+
+RUN yarn build:dev
+
+FROM alpine AS output
+WORKDIR /output
+COPY --from=builder /app/build /output
